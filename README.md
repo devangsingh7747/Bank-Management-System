@@ -22,6 +22,6 @@ A simple and secure **Bank Management System** that simulates core ATM functiona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Bank-Management-System.git
+   git clone https://github.com/devangsingh7747/Bank-Management-System.git
    cd Bank-Management-System
    
